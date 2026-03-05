@@ -1,10 +1,16 @@
 # Python Learning Projects
 
-This repository contains my programming practice while learning Python.
+This repository contains my Python practice while learning programming.
 
 ## Projects
-- Grade Calculator
-- Small Python Exercises
+
+### Grade Calculator
+A Python program that calculates grades based on input scores.
+
+### Skills Used
+- Python
+- Conditional statements
+- Basic programming logic
 
 ## Author
 ICT Student at Asia Pacific University (APU)
