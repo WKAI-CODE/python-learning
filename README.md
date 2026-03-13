@@ -4,10 +4,20 @@ This repository contains my programming practice while learning Python and progr
 
 ## Project: Grade Calculator
 
-**File:** Multi_grade_refactor.py
+**File:** Multi_grade_final.py
 
-This project is a Python program that calculates a student's grade based on input scores.  
-It was created as part of my practice while learning Python.
+Student Grade System (Python)
+
+A menu-driven Python program that manages student records.
+
+Features:
+- Add students with marks
+- Automatically calculate grades
+- Show class summary and statistics
+- Search, edit, and delete students
+- Show top students
+- Grade distribution
+- Save results to file
 
 ### Skills Used
 - Python
