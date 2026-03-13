@@ -1,3 +1,8 @@
+# Grade Calculator Program
+# Author: Kai Cheng
+# Description: A Python program that calculates grades based on score input.
+# Created while learning Python programming fundamentals.
+
 def get_grade(mark):
     if mark >= 80:
         return "A"
@@ -256,4 +261,5 @@ def main():
             print("Invalid choice. Please enter 1 to 7.")
 
 if __name__ == "__main__":
+
     main()
